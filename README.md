@@ -1,2 +1,1 @@
-# excel-batch-toolkit
-Excel批量处理工具 - 合并/拆分/清洗/格式化
+# Excel Batch Toolkit`n`n一键搞定 Excel 合并、拆分、清洗、格式化`n`n## 功能`n- 合并多个 Excel 文件`n- 按工作表或按行数拆分`n- 删除重复行/空行/去除空格`n- 格式化：表头样式/边框/列宽`n`n## 使用`n```bash`npip install -r requirements.txt`npython main.py`n```
